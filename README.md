@@ -3,7 +3,7 @@ This project is focused on web scraping of data from elections in the Czech repu
 
 Libraries requirements:
 All mandatory libraries are listed in the file requirements.txt, which is attached to this project
-The thir party libraries can be installed from the terminal using the command:
+The third party libraries can be installed from the terminal using the command:
 pip install -r requirements.txt
 
 
