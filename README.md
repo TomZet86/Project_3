@@ -21,11 +21,11 @@ web_scraper.py "URL" "NAME_OF_THE_OUTPUT_FILE.csv"
 
 The URL arg.:
 Navigate to https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ, pick a region of your choice and press the hyperlink "X" character in the "vyber obce" column on the same row.
-cCopy the URL from this page and use it as the first argument of the script enclosed by doubleqoutes ("URL")
+Copy the URL from this page and use it as the first argument of the script enclosed by doubleqoutes ("URL")
 
 The csv arg.:
 The csv arg is the second mandatory argument. It's a name of the file with ".csv" extension 
-Recommended names pattern should contain the name of the region that you've chosen for scraping
+Recommended name patterns contain the name of the region that you've chosen for scraping
 
 example: 
 picked region: brno-venkov
