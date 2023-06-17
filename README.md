@@ -29,6 +29,6 @@ Recommended name patterns contain the name of the region that you've chosen for 
 
 example: 
 picked region: brno-venkov
-results: results_brno_venkov.cs
+results: results_brno_venkov.csv
 
 web_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6203" "results_brno_venkov.csv"
